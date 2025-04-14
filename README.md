@@ -1,4 +1,4 @@
-## Hi I am Sanjeet Kumar 👋 - Android Developer 👨‍💻
+## Hi, 👋 I am Sanjeet Kumar - Android Developer 👨‍💻
 
 Hi, I'm **Sanjeet Kumar**, a passionate Android Developer with a knack for building seamless, user-friendly mobile applications. I specialize in crafting robust apps using Kotlin, Java, and modern Android frameworks. Welcome to my digital resume!
 
