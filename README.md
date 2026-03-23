@@ -14,7 +14,9 @@ With 6+ years of experience in **Kotlin**, **Java**, and **modern Android framew
 - 🌐 Backend communication via **Retrofit**, **OkHttp**, and **RESTful APIs**  
 - 💳 Integrated multiple payment gateways: **Stripe**, **Razorpay**, **Paystack**, **PawaPay**, and **DirectPay**  
 - 🗺️ Experienced with **Google Maps**, **Branch.io (Live tracking & Deep Link)**, **HyperVerge**, **Firebase**, and **Room Database**  
-- ⚙️ Focused on performance optimization, secure integrations, and scalable architecture  
+- ⚙️ Focused on performance optimization, secure integrations, and scalable architecture
+
+**🎯 Core Domains:** Ride-Hailing Platforms, Logistics & Delivery Systems, Enterprise POS Systems, SaaS Mobile Platforms, and Real-Time Tracking.
 
 ---
 
@@ -44,8 +46,8 @@ Built and maintained robust Android apps in mobility, logistics, and enterprise 
 - Built a **secure, real-time fleet management platform** for corporate users with advanced authentication and analytics.  
 - Integrated **Stripe** and **Razorpay** for safe ride payments.  
 
-#### 🚗 The Ridely App (Carpool Platform)
-- [The Ridely App](https://play.google.com/store/apps/details?id=prod.ridelyapp.pool)  
+#### 🚗 The Carpool App (Carpool Platform)
+- [Carpool App](https://play.google.com/store/apps/details?id=prod.ridelyapp.pool)  
 - Created a **ride-sharing solution** for daily commuters with route sharing, carpool payment flow, and live location tracking using **Branch.io SDK**.  
 
 #### 🚚 Orca Logistics Platform (Last-Mile Delivery — Customer & Driver)
@@ -63,24 +65,25 @@ Built and maintained robust Android apps in mobility, logistics, and enterprise 
 ### **Digital Wolf Pvt. Ltd.** — Android Developer  
 📅 *September 2022 – February 2024 | Noida, Uttar Pradesh*  
 
-Developed and customized private SaaS-based E-POS and retail apps built for **Sunmi** and **PAX terminal** devices.  
+Developed and customized private enterprise-grade E-POS solutions for restaurants and retail operations, specializing in hardware integration for smart terminals. **Sunmi** and **PAX terminal** devices.  
 
-- [Swoopos Hospitality PRO](https://partner.sunmi.com/developManage/app/17489/detail): Full-scale E-POS for restaurants and large venues.  
-- [WaiterMate](https://partner.sunmi.com/developManage/app/23595/detail): Mobile POS for waiters and compact smart terminals.  
-- [Swoopos Retail](https://partner.sunmi.com/developManage/app/12302/detail): Retail inventory and billing system with QR-based payment support.  
+- [Swoopos Hospitality PRO](https://partner.sunmi.com/developManage/app/17489/detail): Enterprise POS system designed for large displays (*Sunmi T2, T2s, D2 Mini, T2s Lite*). Features include table management, multi-device synchronization, and integrated payment processing.
+- [WaiterMate](https://partner.sunmi.com/developManage/app/23595/detail): Mobile POS for portable terminals (*Sunmi V2 Pro, L2, PAX A920*) and smartphones, enabling mobile order-taking and kitchen printer integration.
+- [Swoopos Retail](https://partner.sunmi.com/developManage/app/12302/detail): Retail POS platform focused on inventory tracking, barcode scanning, and detailed sales reporting. 
 
 🧾 Key Contributions:
-- Transitioned projects from **Java to Kotlin + Coroutines** for improved concurrency.  
+- Transitioned projects from **Java to Kotlin + Coroutines** for improved concurrency.
+- Integrated specialized hardware SDKs including **Sunmi Printer SDK** and **Star Printer SDK** for seamless receipt and kitchen printing.
 - Optimized POS operations and network handling for offline-first use cases.  
-- Built custom libraries for **Sunmi device support**, speeding delivery cycles.  
+- Transitioned core projects from Java to Kotlin + Coroutines, optimizing offline-first operations. 
 
 ---
 
 ### **Appzlogic Technologies** — Android Developer  
 📅 *June 2021 – August 2022 | Noida, Uttar Pradesh*  
 
-- [SingShala](https://play.google.com/store/apps/details?id=com.lucidmusic.singstr&hl=en_IN&gl=US): AI-powered singing practice app with vocal pitch analysis.  
-- [URLO](https://play.google.com/store/apps/details?id=com.nanonino.urlo): Social audio sharing app for voice posts and micro-clips.  
+- [SingShala](https://play.google.com/store/apps/details?id=com.lucidmusic.singstr&hl=en_IN&gl=US): AI-powered singing training app featuring real-time voice pitch detection, interactive lessons, and vocal feedback. 
+- [URLO](https://play.google.com/store/apps/details?id=com.nanonino.urlo): Social audio platform allowing users to record, publish, and discover short audio clips.
 
 🎯 Highlights:
 - Enhanced audio streaming performance by implementing **asynchronous caching**.  
@@ -91,7 +94,7 @@ Developed and customized private SaaS-based E-POS and retail apps built for **Su
 ### **Indian Institute of Technology (IIT Mandi)** — Android Developer  
 📅 *September 2019 – June 2021 | Mandi, Himachal Pradesh*  
 
-- [FarmerZone](https://play.google.com/store/apps/details?id=com.farmerzone): Agricultural advisory and weather insight app for farmers.  
+- [FarmerZone](https://play.google.com/store/apps/details?id=com.farmerzone): Agriculture advisory platform providing location-based weather updates, crop advisory systems, and real-time farming insights.
 - Integrated **location-based recommendations**, **offline caching**, and **real-time weather APIs** for rural information access.  
 
 ---
@@ -103,7 +106,7 @@ Developed and customized private SaaS-based E-POS and retail apps built for **Su
 **Architecture Patterns:** MVVM, MVI, MVP, Clean Architecture  
 **Dependency Injection:** Dagger-Hilt, Koin  
 **Databases:** Room, SQLite, Firestore  
-**SDKs:** Branch.io, HyperVerge, Maps SDK, Firebase SDK  
+**SDKs:** Branch.io, HyperVerge, Maps SDK, Firebase SDK, Sunmi/Star Printer SDKs
 **Payments:** Stripe, Razorpay, Paystack, PawaPay, DirectPay  
 **Tools:** Android Studio, Git, Gradle, JIRA, Postman, Firebase Console  
 
