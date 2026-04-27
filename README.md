@@ -125,6 +125,6 @@ Developed and customized private enterprise-grade E-POS solutions for restaurant
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjeet-kumar-prajapati-08836215b/)  
 - 🧑‍💻 [GitHub](https://github.com/sanjeetji)  
-- ✉️ **Email:** sanjeet.ji.dev@gmail.com  
+- ✉️ **Email:** sk698166@gmail.com  
 
 > _"Clean architecture and beautiful user experience go hand in hand — one fuels the other."_ ✨  
